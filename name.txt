@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Thibault van hellemont
+=======
+Thibault Van Hellemont
+127617
+>>>>>>> number
